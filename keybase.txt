@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/paytonne
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paytonne.github.io
+  * I am paytonne (https://keybase.io/paytonne) on keybase.
+  * I have a public key with fingerprint 5792 DE12 3A97 EC33 77CB  65E2 E590 E2B7 1538 569B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bafc623a7368905ee8ad26f09e69d02aca076537997b70d53ae9abbbe97c73700a",
+      "fingerprint": "5792de123a97ec3377cb65e2e590e2b71538569b",
+      "host": "keybase.io",
+      "key_id": "e590e2b71538569b",
+      "kid": "0101bafc623a7368905ee8ad26f09e69d02aca076537997b70d53ae9abbbe97c73700a",
+      "uid": "2323b7f813db8b4e97ca3dacbd16b719",
+      "username": "paytonne"
+    },
+    "service": {
+      "hostname": "paytonne.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1558646186,
+  "expire_in": 157680000,
+  "prev": "fae377aefed1fb754183046df4e4ba561f65c87fc3638e530f8a360aa6ebace8",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJZbA1RGL5Xb4vS8CARSaU1lghVM3PuWeZabqrEg4jlpZZyc87MP7eT
+1sx177TUUhK7pBIPYk8IsUckQkQbu9A00hBBiRSlJUSiscQSnClexKPzcnL+833f
+/31//mt5WaHccPjILKXlYOfucPPlvdWh8s68Y8sV4Vm1Smy5UgndF1RZkPETlY6l
+xBRVUzXBbZPoiFNEmKFiAMYtndiqAcSwVJ2bXKUEI2oYVFDVwoiDwYUQYFCTIqqq
+XClSbMdNQjqVdlxfymJq6BZoUtSgYCJEqSkIBh2woYIuqIYRw8QQkljhZQKGNCd4
+BoodT9bkI9Ft7x/4/+y7ultORzoS1GYasgQT0QDBkcVNYWlEdjcCYAbSLl8EEp3i
+tb7nuqCsLFJktcYxIRhskOQvRHHS8Suqxa9UqbTne6ZXJf8rfD+ViQV8vzYVEJaA
+SPyWSgjHteQ0JaMG0hnHc5WYJpGm7wTaGsaMRInGSJECS1NOGhJOgMCUMFWeoA/U
+SEmbg5w7BxsszRYURzWG1Cix7ChEBcdEswk2GbVNRBADjFSbcURUzgkIbgJTgnCL
+XU+JGdImT0rJjJN0uV+dlsmvXCqPhMK5oZzsHsGWhXJ79/+ze3e8XqE9K0rfN6PR
+3xftyL4Q2brlzca39e/iE0P1SpxVNAhc2q9q80lWP0JbsrOJdNV97bP++IRtTZNf
+xl892Gf8yCrZ1LG2rFAMeNpz74RBBTnQsXhhXuPgF89LN7fgSSVfOleV3W6t3VC3
+5sfqZ2yZE8phyfSc+dMPzIgbO/GoSHz8hqv7nFUlxYcffzw6ZNjqkVP6fXjYeDD+
+qEAfdm9/W1lz6/DY+W91F72Zt9ZNPff50KmTd8NPUf/776pOl+ePTZxocNq2v11w
+9mvk+6ebY9qHXo4/6bg+P3kmv91/fWruvHHemtIC2vfwDb4unN01u3AqtEV2pRoe
+ThvYxRvbIadXQ+H5gZGfoHxBnQ==
+=Zogy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paytonne
+
+==================================================================
